@@ -1,0 +1,8 @@
+Gravity Copter
+
+Welcome to Gravity Copter
+
+How to play:
+- Press the Spacebar to reverse Gravity
+- Don't crash into the buildings
+- If you crash, the game will automatically restart
